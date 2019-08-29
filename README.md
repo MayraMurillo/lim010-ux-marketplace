@@ -101,7 +101,7 @@ Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para 
 
 
 
-4- Sintesis y Definición
+4- **Sintesis y Definición**
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63961392-55621400-ca56-11e9-97ed-0976838f4e27.png)
@@ -111,6 +111,17 @@ Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para 
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63962758-14b7ca00-ca59-11e9-97ea-667c99b51d3f.png)
+
+***
+## Prototipado
+
+1-**Wireframe**
+
+![image](https://user-images.githubusercontent.com/51096946/63964112-08813c00-ca5c-11e9-8bc5-199ccf20c176.png)
+![image](https://user-images.githubusercontent.com/51096946/63964119-0dde8680-ca5c-11e9-8287-a72755b35030.png)
+![image](https://user-images.githubusercontent.com/51096946/63964126-11720d80-ca5c-11e9-81db-f215f5ee4546.png)
+![image](https://user-images.githubusercontent.com/51096946/63964132-146cfe00-ca5c-11e9-90c8-3c8407ce7b15.png)
+![image](https://user-images.githubusercontent.com/51096946/63964144-1a62df00-ca5c-11e9-9bce-1dea4de25c70.png)
 
 ## Implementación
 
