@@ -1,28 +1,21 @@
-# Santé
+# Propuesta Market Place - Santé
 
-## Preámbulo
+## Información de la empresa:
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+Sante es una empresa joven que lleva constituida formalmente en el mercado hace 2 años; se encarga de ofrecer objetos de cerámica con diseño y producción artesanal, cabe resaltar que cada pieza está hecha a mano y principalmente trabajada por Santiago Robles quien es el dueño de la empresa.
 
-## Introducción
+## Objetivos del proyecto:
 
-### “Nuevo portal de e-commerce”
+El objetivo principal de este proyecto es ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una plataforma de ventas online ya que al momento solo lo realiza mediante Instagram.
 
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear o mejorar un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
+## Problemas identificados con el cliente:
+
+El único trabajador de la empresa es Santiago Robles, quien ocasionalmente trabaja con una persona que le ayuda en la producción de las pieza (2 veces a la semana).
+Aún no genera ingresos suficientes por lo que tiene que dictar clases de arte para sustentar el taller.
+El principal problema actual es la falta de tiempo ya que una sola persona tiene que dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas, por lo que queda poco tiempo para promocionar sus productos lo que también se traduce en bajas ventas.
+El artista considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
+
+
 
 - [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
 - [Sante Perú](https://www.facebook.com/sante.peru/)
