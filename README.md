@@ -22,6 +22,11 @@ Cuando consultamos al cliente sobre su principal competencia indicó que él no 
 
 |Facebook|Cantidad de seguidores|Frecuencia de publicaciones|Fotos|Videos|¿Cuentan con descripción|Precio|
 |:----|:---|:---:|:---:|:----:|:----:|:----:|
+Sante|1,030|1 al mes|Si|Si|No|No|
+Emilio Longhi|1,656|2 al mes|Si|No|Si|No|
+Taller Greda Barranco|1,447|2 al mes|Si|Si|No|No|
+Isa Luna Cusco|15,502|2 al mes|Si|No|No|No|
+
 
 - [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
 - [Sante Perú](https://www.facebook.com/sante.peru/)
