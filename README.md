@@ -27,7 +27,7 @@ Iniciamos nuestra investigación entrevistando a Santiago Robles quien es el art
 
 * El artista considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
 
-- [Entrevista a Santiago Robles](https://www.youtube.com/watch?v=rCJKPO7NsI4&t=642s/)
+[Entrevista a Santiago Robles](https://www.youtube.com/watch?v=rCJKPO7NsI4&t=642s/)
 
 
 También nos indicó que sus principales clientes son mujeres, mayormente con poder adquisitivo alto y dentro del rango de edades de 30 a 60 años. 
@@ -69,15 +69,20 @@ Utilizamos también como referencia e-commerce extranjeros especializados en ven
 
 ## Investigación
 
-1- Entrevista a usuarios:
+Entrevistamos a 5 personas dentro de nuestro proceso de investigación y el resultado de dichas entrevistas se ve reflejado en lo siguiente:
 
-Entrevistamos a 5 personas dentro de nuestro proceso de investigación
-
+1- Afinitty Map:
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63953517-16789200-ca47-11e9-9b56-221ae26cf401.png)
 
 
+![image](https://user-images.githubusercontent.com/51096946/63956166-8be66180-ca4b-11e9-9f71-34ec0aba20c6.png)
+
+
+![image](https://user-images.githubusercontent.com/51096946/63956778-ba187100-ca4c-11e9-9293-9df37a6ca972.png)
+
+![image](https://user-images.githubusercontent.com/51096946/63957074-593d6880-ca4d-11e9-8505-90d9c702cc55.png)
 
 ## User persona:
 ![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
