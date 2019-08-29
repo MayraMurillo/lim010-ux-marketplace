@@ -34,7 +34,14 @@ Emilio Longhi|1,749|2 al mes|Si|No|No|No|
 Taller Greda Barranco|649|1 al mes|Si|Si|No|No|
 Isa Luna Cusco|2,900|3 al mes|Si|No|No|No|
 
-- [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
+Un artista que miramos como inspiración fue Joan Alfaro, quien ofrece sus pinturas y grabados mediante una página web, es un sitio simple en donde se pueden ver sus obras disponibles, los lugares donde pueden ser adquiridas y contactos para ventas y redes sociales.
+
+De esta página tomamos la idea de mantener nuestra pagina sencilla y con información de las medidas de cada pieza.
+
+
+- [Joan Alfaro](https://joanalfaro.pe/)
+
+
 - [Sante Perú](https://www.facebook.com/sante.peru/)
 - [Paula Ramirez](https://www.instagram.com/paularamirez.knitwear/)
 - [Dahlia Swimwear](https://www.facebook.com/dahliaswimwear)
