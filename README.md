@@ -84,10 +84,18 @@ Entrevistamos a 5 personas dentro de nuestro proceso de investigación y el resu
 
 ![image](https://user-images.githubusercontent.com/51096946/63957074-593d6880-ca4d-11e9-8505-90d9c702cc55.png)
 
-## User persona:
+- [Link Afinitty Map](https://miro.com/app/board/o9J_kwhdxJ8=/)
+
+2- User persona:
+
+Luego de nuestra investigación creamos nuestra User Persona:
+
 ![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
 
-## Journey Map:
+3- Journey Map:
+
+Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para realizar su compra en Santé e identificamos cuales serían los puntos de dolor:
+
 ![Journey Map](https://user-images.githubusercontent.com/51096946/63944502-3b650900-ca37-11e9-88a0-49fa7c6716b5.png)
 
 
