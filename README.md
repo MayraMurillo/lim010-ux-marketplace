@@ -101,12 +101,13 @@ Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para 
 
 
 
+4- Sintesis y Definición
 
 
+![image](https://user-images.githubusercontent.com/51096946/63961392-55621400-ca56-11e9-97ed-0976838f4e27.png)
 
 
-
-
+![image](https://user-images.githubusercontent.com/51096946/63961811-3912a700-ca57-11e9-8b01-5af7bbdac6e2.png)
 
 
 
