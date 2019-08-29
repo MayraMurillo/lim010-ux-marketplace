@@ -1,21 +1,38 @@
 # Propuesta Market Place - Santé
 
-## Información de la empresa:
+## Acerca de la empresa:
 
 Sante es una empresa joven que lleva constituida formalmente en el mercado hace 2 años; se encarga de ofrecer objetos de cerámica con diseño y producción artesanal, cabe resaltar que cada pieza está hecha a mano y principalmente trabajada por Santiago Robles quien es el dueño de la empresa.
 
+Ofrece sus productos por redes sociales pero también se pueden encontrar en las tienda Puna y Callao Monumental.
+
+ 
 ## Objetivos del proyecto:
 
 El objetivo principal de este proyecto es ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una plataforma de ventas online ya que al momento solo lo realiza mediante Instagram.
 
-## Problemas identificados con el cliente:
+***
 
-El único trabajador de la empresa es Santiago Robles, quien ocasionalmente trabaja con una persona que le ayuda en la producción de las pieza (2 veces a la semana).
-Aún no genera ingresos suficientes por lo que tiene que dictar clases de arte para sustentar el taller.
-El principal problema actual es la falta de tiempo ya que una sola persona tiene que dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas, por lo que queda poco tiempo para promocionar sus productos lo que también se traduce en bajas ventas.
-El artista considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
+## Primera parte:
 
-## Benchmark:
+1- Entrevista al cliente:
+
+Iniciamos nuestra investigación entrevistando a Santiago Robles quien es el artista y dueño del emprendimiento, nos recibió en su taller de Barranco y nos conto cuales eran sus principales problemas:
+
+* El único trabajador de la empresa es Santiago Robles, quien ocasionalmente trabaja con una persona que le ayuda en la producción de las pieza (2 veces a la semana).
+
+* Aún no genera ingresos suficientes por lo que tiene que dictar clases de arte para sustentar el taller.
+
+* Le falta tiempo, ya que él solo debe de dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas, por lo que queda poco tiempo para promocionar sus productos lo que también se traduce en bajas ventas.
+
+* El artista considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
+
+- [Entrevista a Santiago Robles](https://www.youtube.com/watch?v=rCJKPO7NsI4&t=642s/)
+
+
+También nos indicó que sus principales clientes son mujeres, mayormente con poder adquisitivo alto y dentro del rango de edades de 30 a 60 años. 
+
+2- Benchmark:
 
 Cuando consultamos al cliente sobre su principal competencia indicó que él no consideraba que existía en el mercado alguien que ofrezca los mismos productos que él, sin embargo, encontramos algunos artistas(pintores, escultores) que trabajan de forma similar vendiendo sus creaciones mediante redes sociales y pudimos obtener los siguientes datos acerca del mercado de venta por redes sociales:
 
@@ -41,8 +58,32 @@ De esta página tomamos la idea de mantener nuestra pagina sencilla y con inform
 
 - [Joan Alfaro](https://joanalfaro.pe/)
 
+Utilizamos también como referencia e-commerce extranjeros especializados en venta de cerámica como:
+
+- [Magnolia](https://shop.magnolia.com/collections/best-sellers/products/magnolia-mug/)
+
+- [SBH Pottery](https://sbhpottery.bigcartel.com/products/)
+
+
+***
+
+## Investigación
+
+1- Entrevista a usuarios:
+
+Entrevistamos a 5 personas dentro de nuestro proceso de investigación
+
+
+
+![image](https://user-images.githubusercontent.com/51096946/63953517-16789200-ca47-11e9-9b56-221ae26cf401.png)
+
+
+
 ## User persona:
 ![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
+
+## Journey Map:
+![Journey Map](https://user-images.githubusercontent.com/51096946/63944502-3b650900-ca37-11e9-88a0-49fa7c6716b5.png)
 
 
 
