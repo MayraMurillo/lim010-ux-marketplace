@@ -20,8 +20,8 @@ El artista considera que actualmente su mayor dificultad es la poca difusión de
 Cuando consultamos al cliente sobre su principal competencia indicó que él no consideraba que existía en el mercado alguien que ofrezca los mismos productos que él, sin embargo, encontramos algunos artistas(pintores, escultores) que trabajan de forma similar vendiendo sus creaciones mediante redes sociales y pudimos obtener los siguientes datos acerca del mercado de venta por redes sociales:
 
 
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
+|Facebook|Cantidad de seguidores|Frecuencia de publicaciones|Fotos|Videos|¿Cuentan con descripción|Precio|
+|:----|:---|:---:|:---:|:----:|:----:|:----:|
 
 - [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
 - [Sante Perú](https://www.facebook.com/sante.peru/)
