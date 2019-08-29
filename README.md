@@ -42,8 +42,7 @@ De esta página tomamos la idea de mantener nuestra pagina sencilla y con inform
 - [Joan Alfaro](https://joanalfaro.pe/)
 
 ## User persona:
-![alt text] (userpersona.png)
-
+![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
 
 
 
