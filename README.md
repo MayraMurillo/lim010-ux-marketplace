@@ -69,12 +69,23 @@ Utilizamos también como referencia e-commerce extranjeros especializados en ven
 
 ## Investigación
 
-Entrevistamos a 5 personas dentro de nuestro proceso de investigación y el resultado de dichas entrevistas se ve reflejado en lo siguiente:
-
-1- **Afinitty Map**:
+Entrevistamos a 5 personas dentro de nuestro proceso de investigación:
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63953517-16789200-ca47-11e9-9b56-221ae26cf401.png)
+
+Y los insights que encontramos fueron los siguientes:
+
+- Si realizaban compras por internet, pero principalmente en supermercados y retailers como Falabella.
+- Valoraban la practicidad y rapidez con la que hacían compras por internet.
+- Lo que les disgustaba era la demora en la respuesta de algunas páginas.
+- Cuando compraban objetos decorativos estaban motivados mayormente por el atractivo visual, si veian algo que consideren bonito no dudaban en comprarlo.
+- Buscaban productos únicos y utilitarios.
+- Principalmente compraban cerámicas de manera presencial, solo hubo un usuario que compró por internet en la página de Falabella.
+- Necesitaban conocer las características del producto para evaluar una compra por internet.
+
+
+1- **Afinitty Map**:
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63956166-8be66180-ca4b-11e9-9f71-34ec0aba20c6.png)
@@ -88,20 +99,17 @@ Entrevistamos a 5 personas dentro de nuestro proceso de investigación y el resu
 
 2- **User persona**:
 
-Luego de nuestra investigación creamos nuestra User Persona:
+Luego de nuestra investigación creamos nuestra User Persona **SILVIA HERRERA**:
 
 ![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
 
 3- **Journey Map**:
 
-Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para realizar su compra en Santé e identificamos cuales serían los puntos de dolor:
+Ya sabiendo las necesidades y frustraciones de Silvia, ideamos cuales serían las etapas que atravesaría para realizar su compra en Santé e identificamos cuales serían los puntos de dolor:
 
 ![Journey Map](https://user-images.githubusercontent.com/51096946/63944502-3b650900-ca37-11e9-88a0-49fa7c6716b5.png)
 
-
-
-
-4- **Sintesis y Definición**
+Luego de ello, definimos los Problem Statements, y empezamos a analizar How Might We? y What If? Para acercarnos poco a poco a la solución de los problemas.
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63961392-55621400-ca56-11e9-97ed-0976838f4e27.png)
@@ -110,10 +118,14 @@ Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para 
 ![image](https://user-images.githubusercontent.com/51096946/63961811-3912a700-ca57-11e9-8b01-5af7bbdac6e2.png)
 
 
+Teniendo todo identificado, priorizamos cuales serían los Feature List a presentar en nuestra web:
+
 ![image](https://user-images.githubusercontent.com/51096946/63962758-14b7ca00-ca59-11e9-97ea-667c99b51d3f.png)
 
 ***
 ## Prototipado
+
+Finalmente empezamos con el prototipado en 
 
 1-**Wireframe**
 
