@@ -110,7 +110,7 @@ Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para 
 ![image](https://user-images.githubusercontent.com/51096946/63961811-3912a700-ca57-11e9-8b01-5af7bbdac6e2.png)
 
 
-
+![image](https://user-images.githubusercontent.com/51096946/63962758-14b7ca00-ca59-11e9-97ea-667c99b51d3f.png)
 
 ## Implementación
 
