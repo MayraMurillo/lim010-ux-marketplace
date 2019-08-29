@@ -15,7 +15,7 @@ El objetivo principal de este proyecto es ayudar a mejorar las ventas de la empr
 
 ## Primera parte:
 
-1- Entrevista al cliente:
+1- **Entrevista al cliente**:
 
 Iniciamos nuestra investigación entrevistando a Santiago Robles quien es el artista y dueño del emprendimiento, nos recibió en su taller de Barranco y nos conto cuales eran sus principales problemas:
 
@@ -32,7 +32,7 @@ Iniciamos nuestra investigación entrevistando a Santiago Robles quien es el art
 
 También nos indicó que sus principales clientes son mujeres, mayormente con poder adquisitivo alto y dentro del rango de edades de 30 a 60 años. 
 
-2- Benchmark:
+2- **Benchmark**:
 
 Cuando consultamos al cliente sobre su principal competencia indicó que él no consideraba que existía en el mercado alguien que ofrezca los mismos productos que él, sin embargo, encontramos algunos artistas(pintores, escultores) que trabajan de forma similar vendiendo sus creaciones mediante redes sociales y pudimos obtener los siguientes datos acerca del mercado de venta por redes sociales:
 
@@ -71,7 +71,7 @@ Utilizamos también como referencia e-commerce extranjeros especializados en ven
 
 Entrevistamos a 5 personas dentro de nuestro proceso de investigación y el resultado de dichas entrevistas se ve reflejado en lo siguiente:
 
-1- Afinitty Map:
+1- **Afinitty Map**:
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63953517-16789200-ca47-11e9-9b56-221ae26cf401.png)
@@ -86,13 +86,13 @@ Entrevistamos a 5 personas dentro de nuestro proceso de investigación y el resu
 
 - [Link Afinitty Map](https://miro.com/app/board/o9J_kwhdxJ8=/)
 
-2- User persona:
+2- **User persona**:
 
 Luego de nuestra investigación creamos nuestra User Persona:
 
 ![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
 
-3- Journey Map:
+3- **Journey Map**:
 
 Luego de conocer a Silvia, ideamos cual sería las etapas que atravesaría para realizar su compra en Santé e identificamos cuales serían los puntos de dolor:
 
