@@ -42,7 +42,7 @@ De esta página tomamos la idea de mantener nuestra pagina sencilla y con inform
 - [Joan Alfaro](https://joanalfaro.pe/)
 
 ## User persona:
-! [User persona] (https://github.com/MayraMurillo/lim010-ux-marketplace/blob/master/images/Silvia%20Herrera%20-%20user%20persona.png)
+[User persona] (https://github.com/MayraMurillo/lim010-ux-marketplace/blob/master/images/Silvia%20Herrera%20-%20user%20persona.png)
 
 
 
