@@ -15,7 +15,13 @@ Aún no genera ingresos suficientes por lo que tiene que dictar clases de arte p
 El principal problema actual es la falta de tiempo ya que una sola persona tiene que dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas, por lo que queda poco tiempo para promocionar sus productos lo que también se traduce en bajas ventas.
 El artista considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
 
+## Benchmark:
 
+Cuando consultamos al cliente sobre su principal competencia indicó que él no consideraba que existía en el mercado alguien que ofrezca los mismos productos que él, sin embargo, encontramos algunos artistas(pintores, escultores) que trabajan de forma similar vendiendo sus creaciones mediante redes sociales y pudimos obtener los siguientes datos acerca del mercado de venta por redes sociales:
+
+
+|Actividad|Descripción|Puntos|
+|:----|:---|:---:|
 
 - [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
 - [Sante Perú](https://www.facebook.com/sante.peru/)
