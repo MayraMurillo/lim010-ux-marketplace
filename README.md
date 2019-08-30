@@ -9,7 +9,7 @@ Ofrece sus productos por redes sociales pero también se pueden encontrar en las
  
 ## Objetivos del proyecto:
 
-El objetivo principal de este proyecto es ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una plataforma de ventas online ya que al momento solo lo realiza mediante Instagram.
+Ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una plataforma de ventas online ya que al momento solo lo realiza mediante Instagram.
 
 ***
 
@@ -19,13 +19,13 @@ El objetivo principal de este proyecto es ayudar a mejorar las ventas de la empr
 
 Iniciamos nuestra investigación entrevistando a Santiago Robles quien es el artista y dueño del emprendimiento, nos recibió en su taller de Barranco y nos conto cuales eran sus principales problemas:
 
-* El único trabajador de la empresa es Santiago Robles, quien ocasionalmente trabaja con una persona que le ayuda en la producción de las pieza (2 veces a la semana).
+* El único trabajador de la empresa es Santiago Robles, quien ocasionalmente trabaja con una persona que le ayuda en la producción de las piezas (2 veces a la semana).
 
 * Aún no genera ingresos suficientes por lo que tiene que dictar clases de arte para sustentar el taller.
 
 * Le falta tiempo, ya que él solo debe de dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas, por lo que queda poco tiempo para promocionar sus productos lo que también se traduce en bajas ventas.
 
-* El artista considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
+* Considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
 
 [Entrevista a Santiago Robles](https://www.youtube.com/watch?v=rCJKPO7NsI4&t=642s/)
 
@@ -122,10 +122,14 @@ Teniendo todo identificado, priorizamos cuales serían los Feature List a presen
 
 ![image](https://user-images.githubusercontent.com/51096946/63962758-14b7ca00-ca59-11e9-97ea-667c99b51d3f.png)
 
-***
-## Prototipado
 
-Finalmente empezamos con el prototipado en 
+4- **Arbol de contenido**:
+Luego ideamos la estructura de nuestra página web de la siguiente manera:
+
+![Arbol de contenido](https://user-images.githubusercontent.com/51096946/63991745-8c641400-caae-11e9-8444-86ab68486331.png)
+
+***
+## Testing
 
 1-**Wireframe**
 
@@ -135,26 +139,32 @@ Finalmente empezamos con el prototipado en
 ![image](https://user-images.githubusercontent.com/51096946/63964132-146cfe00-ca5c-11e9-90c8-3c8407ce7b15.png)
 ![image](https://user-images.githubusercontent.com/51096946/63964144-1a62df00-ca5c-11e9-9bce-1dea4de25c70.png)
 
-## Implementación
+Se hizo el test con 3 usuarios y obtuvimos el siguiente feedback:
 
+- Les gustó el proceso de compra, les pareció facil e intuitivo.
+- Les gustó la opción de pago contra entrega ya que al ser una página nueva, se sentían más seguros de pagar el producto al recibirlo.
+- La última pantalla pareció muy fría, el mensaje de "Gracias por su compra" no transmitía nada.
+- Pidieron que se agregue la opción de seguir comprando antes de hacer el pago.
+- Indicaron que preferían hacer las compras en una computadora de escritorio ya que se "ve mejor".
 
+2-**Prototipo de Alta Fidelidad**
 
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+![image](https://user-images.githubusercontent.com/51096946/63982322-ad653e80-ca87-11e9-86ab-f86190e30fe6.png)
+![image](https://user-images.githubusercontent.com/51096946/63982330-b5bd7980-ca87-11e9-9d17-564d1cf77e49.png)
+![image](https://user-images.githubusercontent.com/51096946/63982331-b81fd380-ca87-11e9-8cc1-092528b3210a.png)
+![image](https://user-images.githubusercontent.com/51096946/63982336-bbb35a80-ca87-11e9-9d4d-eb32585ad0a7.png)
+![image](https://user-images.githubusercontent.com/51096946/63982343-bf46e180-ca87-11e9-8d96-d8a690b3dc2c.png)
+![image](https://user-images.githubusercontent.com/51096946/63982350-c372ff00-ca87-11e9-87dc-2ebabd857054.png)
 
+Se hizo el test con 2 usuarios y obtuvimos el siguiente feedback:
 
+- No ubicaron facilmente las fotos de los productos.
+- Pidieron que se agregue el boton para hacer scroll.
+- No pudieron encontrar la información de las dimensiones.
+- Pidieron que se agreguen más campos a la parte del formulario relacionada a la dirección, ya que solo había un input para la direccion y pedian que se divida en campos como provincia, distrito, calle, etc.
+- Pidieron la opción de guardar datos para enviar promociones sobre la tienda.
 
-
-
-
-
-
-
+## Resultado final:
+[Enlace Figma](https://www.figma.com/file/X40t2mllfkIM902EweIDGg/Sant%C3%A9?node-id=364%3A12
+)
 
