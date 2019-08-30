@@ -2,14 +2,14 @@
 
 ## Acerca de la empresa:
 
-Sante es una empresa joven que lleva constituida formalmente en el mercado hace 2 años; se encarga de ofrecer objetos de cerámica con diseño y producción artesanal, cabe resaltar que cada pieza está hecha a mano y principalmente trabajada por Santiago Robles quien es el dueño de la empresa.
+Santé es una empresa joven que lleva constituida formalmente en el mercado hace 2 años; se encarga de ofrecer objetos de cerámica con diseño y producción artesanal, cabe resaltar que cada pieza está hecha a mano y principalmente trabajada por Santiago Robles quien es el dueño de la empresa.
 
-Ofrece sus productos por redes sociales pero también se pueden encontrar en las tienda Puna y Callao Monumental.
+Ofrece sus productos por Instagram y Facebook pero también se pueden encontrar en las tienda Puna y Callao Monumental.
 
  
 ## Objetivos del proyecto:
 
-Ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una plataforma de ventas online ya que al momento solo lo realiza mediante Instagram.
+Ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una plataforma de ventas online ya que al momento solo lo realiza mediante redes sociales.
 
 ***
 
@@ -19,13 +19,13 @@ Ayudar a mejorar las ventas de la empresa mediante el lanzamiento de una platafo
 
 Iniciamos nuestra investigación entrevistando a Santiago Robles quien es el artista y dueño del emprendimiento, nos recibió en su taller de Barranco y nos conto cuales eran sus principales problemas:
 
-* El único trabajador de la empresa es Santiago Robles, quien ocasionalmente trabaja con una persona que le ayuda en la producción de las piezas (2 veces a la semana).
+* El único trabajador de la empresa es él mismo, pero ocasionalmente trabaja con una persona que le ayuda en la producción de las piezas (2 veces a la semana).
 
 * Aún no genera ingresos suficientes por lo que tiene que dictar clases de arte para sustentar el taller.
 
-* Le falta tiempo, ya que él solo debe de dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas, por lo que queda poco tiempo para promocionar sus productos lo que también se traduce en bajas ventas.
+* Le falta tiempo, ya que él solo debe de dedicarse a la producción de las piezas, tomar las fotos para las redes sociales, responder a los clientes y coordinar las ventas.
 
-* Considera que actualmente su mayor dificultad es la poca difusión de su trabajo.
+* Considera que actualmente su mayor dificultad es la poca difusión de su trabajo, necesita más tiempo para promocionar sus productos.
 
 [Entrevista a Santiago Robles](https://www.youtube.com/watch?v=rCJKPO7NsI4&t=642s/)
 
@@ -51,9 +51,9 @@ Emilio Longhi|1,749|2 al mes|Si|No|No|No|
 Taller Greda Barranco|649|1 al mes|Si|Si|No|No|
 Isa Luna Cusco|2,900|3 al mes|Si|No|No|No|
 
-Un artista que miramos como inspiración fue Joan Alfaro, quien ofrece sus pinturas y grabados mediante una página web, es un sitio simple en donde se pueden ver sus obras disponibles, los lugares donde pueden ser adquiridas y contactos para ventas y redes sociales.
+Un artista que miramos como inspiración fué Joan Alfaro, quien ofrece sus pinturas y grabados mediante una página web, es un sitio simple en donde se pueden ver sus obras disponibles, los lugares donde pueden ser adquiridas y contactos para ventas y redes sociales.
 
-De esta página tomamos la idea de mantener nuestra pagina sencilla y con información de las medidas de cada pieza.
+De esta web tomamos la idea de mantener nuestra pagina sencilla y con información de las medidas de cada pieza.
 
 
 - [Joan Alfaro](https://joanalfaro.pe/)
@@ -64,22 +64,23 @@ Utilizamos también como referencia e-commerce extranjeros especializados en ven
 
 - [SBH Pottery](https://sbhpottery.bigcartel.com/products/)
 
+Donde tuvimos un alcance de como se organizan páginas de comercio por internet modernas, en donde se muestran los productos de una manera sencilla y amigable.
 
 ***
 
 ## Investigación
 
-Entrevistamos a 5 personas dentro de nuestro proceso de investigación:
+Entrevistamos a seis personas dentro de nuestro proceso de investigación, una de ellas era una clienta frecuente:
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63953517-16789200-ca47-11e9-9b56-221ae26cf401.png)
 
-Y los insights que encontramos fueron los siguientes:
+Recopilamos la siguiente información:
 
-- Si realizaban compras por internet, pero principalmente en supermercados y retailers como Falabella.
+- Realizaban compras por internet, pero principalmente en supermercados y retailers como Falabella.
 - Valoraban la practicidad y rapidez con la que hacían compras por internet.
 - Lo que les disgustaba era la demora en la respuesta de algunas páginas.
-- Cuando compraban objetos decorativos estaban motivados mayormente por el atractivo visual, si veian algo que consideren bonito no dudaban en comprarlo.
+- Cuando compraban objetos decorativos estaban motivados mayormente por el atractivo visual; si veian algo que consideren bonito no dudaban en comprarlo.
 - Buscaban productos únicos y utilitarios.
 - Principalmente compraban cerámicas de manera presencial, solo hubo un usuario que compró por internet en la página de Falabella.
 - Necesitaban conocer las características del producto para evaluar una compra por internet.
@@ -99,17 +100,17 @@ Y los insights que encontramos fueron los siguientes:
 
 2- **User persona**:
 
-Luego de nuestra investigación creamos nuestra User Persona **SILVIA HERRERA**:
+Luego de nuestra investigación y de todas las entrevistas que realizamos, ideamos a nuestra User Persona: **SILVIA HERRERA**:
 
 ![User Persona](https://user-images.githubusercontent.com/51096946/63943704-cc3ae500-ca35-11e9-9db0-3e49b1ef46c7.png)
 
 3- **Journey Map**:
 
-Ya sabiendo las necesidades y frustraciones de Silvia, ideamos cuales serían las etapas que atravesaría para realizar su compra en Santé e identificamos cuales serían los puntos de dolor:
+Ya sabiendo las necesidades y frustraciones de Silvia, pensamos cuales serían las etapas que atravesaría para realizar su compra en Santé e identificamos cuales serían los puntos de dolor:
 
 ![Journey Map](https://user-images.githubusercontent.com/51096946/63944502-3b650900-ca37-11e9-88a0-49fa7c6716b5.png)
 
-Luego de ello, definimos los Problem Statements, y empezamos a analizar How Might We? y What If? Para acercarnos poco a poco a la solución de los problemas.
+Luego de ello, definimos los Problem Statements, y empezamos a analizar utilizando las herramientas _How Might We?_ y _What If?_ Para acercarnos poco a poco a la solución de los problemas.
 
 
 ![image](https://user-images.githubusercontent.com/51096946/63961392-55621400-ca56-11e9-97ed-0976838f4e27.png)
@@ -123,10 +124,10 @@ Teniendo todo identificado, priorizamos cuales serían los Feature List a presen
 ![image](https://user-images.githubusercontent.com/51096946/63962758-14b7ca00-ca59-11e9-97ea-667c99b51d3f.png)
 
 
-4- **Arbol de contenido**:
+4- **Árbol de contenido**:
 Luego ideamos la estructura de nuestra página web de la siguiente manera:
 
-![Arbol de contenido](https://user-images.githubusercontent.com/51096946/63991745-8c641400-caae-11e9-8444-86ab68486331.png)
+![Árbol de contenido](https://user-images.githubusercontent.com/51096946/64032232-9c601000-cb0f-11e9-92fb-a36f4336bf9c.png)
 
 ***
 ## Testing
@@ -165,6 +166,23 @@ Se hizo el test con 2 usuarios y obtuvimos el siguiente feedback:
 - Pidieron la opción de guardar datos para enviar promociones sobre la tienda.
 
 ## Resultado final:
-[Enlace Figma](https://www.figma.com/file/X40t2mllfkIM902EweIDGg/Sant%C3%A9?node-id=364%3A12
-)
+
+Después de realizar los test se mejoró el prototipo teniendo en cuenta las necesidades de los usuarios, el resultado fue el siguiente:
+
+[Enlace Figma](https://www.figma.com/proto/X40t2mllfkIM902EweIDGg/Sant%C3%A9?node-id=364%3A13&scaling=min-zoom)
+
+## Conclusiones:
+
+* Se logró hacer una página facil de utilizar, con un proceso de compra intuitivo para el usuario.
+* Se tomaron en cuenta las necesidades del usuario y se agregaron ciertas facilidades para adquirir las piezas como el pago contra entrega.
+* Logramos que los clientes se sientan seguros de adquirir piezas artisticas por internet.
+
+## Links adicionales.
+
+[Zeplin](https://app.zeplin.io/project/5d694429e80ad49b84126121)
+
+[Carpeta Google Drive](https://drive.google.com/drive/folders/1at0ws3Qdq-g0OKRnuLH_YPc14U1L6Y1E)
+
+
+
 
