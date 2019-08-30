@@ -184,5 +184,7 @@ Después de realizar los test se mejoró el prototipo teniendo en cuenta las nec
 [Carpeta Google Drive](https://drive.google.com/drive/folders/1at0ws3Qdq-g0OKRnuLH_YPc14U1L6Y1E)
 
 
+[Carpeta Google Drive](https://www.loom.com/share/c882c6a825f445e9a1131bf4ae3cd1a7)
+
 
 
